@@ -1,7 +1,7 @@
 import React from "react";
 
-function Home() {
-    return <div> Post </div>
+function Post() {
+    return <div> Post</div>
 }
 
-export default Home;
+export default Post ;
